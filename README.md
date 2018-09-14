@@ -6,7 +6,7 @@ first line <br>
 second line <br>
 
 
-but **bold** text is dank too ig
+but **bold** text is dank too ig <br>
 _pasta aglio e olio_ italics for italian
 
 
